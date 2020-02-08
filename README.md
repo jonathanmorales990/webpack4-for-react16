@@ -1,5 +1,5 @@
 
-# Webpack4 configuration to React16
+# Webpack4 configuration to React16 with SASS
 
 To start the webpack in server and dev mode use:
 
