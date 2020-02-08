@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development --progress --colors --inline --hot --display-error-details --display-cached",
-    "production": "webpack --mode production --env.NODE_ENV='production' --progress -p"
+    "production": "webpack --mode production --env=production --progress -p"
   },
   "keywords": [],
   "author": "",
